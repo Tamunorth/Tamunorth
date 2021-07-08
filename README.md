@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamunot
+- 👋 Hi, I’m @Tamunorth
 - 👀 I’m interested in Mobile app and Web Developement 
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter projects for web and mobile.
