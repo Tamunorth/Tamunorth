@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tamunorth
 - 👀 I’m interested in Mobile app and Web Developement 
-- 🌱 I’m currently Learning Flutter and working as a Flutter developer.
-- 💞️ I’m looking to collaborate on Flutter projects for web and mobile.
+- 🌱 I’m currently building spectacular applications with Flutter.
+- 💞️ I’m looking to collaborate on Mobile Application projects.
 - 📫 How to reach me daviesmanuelfavour@gmail.com
 
 <!---
